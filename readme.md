@@ -1,0 +1,1 @@
+Sample Azure Generate AI https://agustox21.wordpress.com/2024/10/09/azure-ai-document-intelligence-with-sample-code/
